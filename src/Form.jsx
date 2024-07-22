@@ -53,7 +53,7 @@ const Form = () => {
     }
   };
   return (
-    <div className="flex flex-col items-center justify-center   py-10">
+    <div className="flex flex-col items-center justify-center px-32  py-10 ">
       <div className="w-52 absolute top-2 ">
         {successMessage && (
           <div className="mb-4 p-4 bg-Greydarker rounded-xl text-White">

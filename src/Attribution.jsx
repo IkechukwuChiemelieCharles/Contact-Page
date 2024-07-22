@@ -3,7 +3,7 @@ import React from "react";
 const Attribution = () => {
   return (
     <div>
-      <div className="attribution text-center text-xs">
+      <div className="attribution text-center text-xs md:text-lg">
         Challenge by
         <a
           className="text-Linkcolor"
