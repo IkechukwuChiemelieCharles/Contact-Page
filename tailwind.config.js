@@ -14,6 +14,8 @@ export default {
       },
       spacing: {
         128: "32rem",
+        130: "40rem",
+        140: "45rem",
       },
       fontFamily: {
         Karla: ["Karla", "sans-serif"],

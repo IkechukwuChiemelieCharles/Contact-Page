@@ -4,7 +4,10 @@ import Form from "./Form";
 
 function App() {
   return (
-    <div className="bg-green-500 h-screen  flex  justify-center items-center flex-col gap-5">
+    <div
+      className=" bg-Greenlighter "
+      // className="bg-green-500 h-screen  flex  justify-center items-center flex-col gap-5"
+    >
       <Form />
       <Attribution />
     </div>
